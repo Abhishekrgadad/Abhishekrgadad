@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhishek R G</h1>
 <h3 align="center">A passionate frontend developer and Website Designer with Fair Backend Database Knowledge.</h3>
 
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Abhishek R G 👋 I'm a 🚀 Web developer 🚀 I ❤️ Exploring New Things ❤️">
+</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekrgadad&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekrgadad" /> </p>
 
 <!-- Add Visitor Counter and Snake Game Animation -->
