@@ -18,7 +18,7 @@
 ⚡ Fun fact **I am Crazy in Learning New Things and Exploring New Works**
 
  </div>
- 
+ <h3 align="left">Connect with me:</h3>
 <div align="left"> 
   <a href="abhishekgadad252@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
