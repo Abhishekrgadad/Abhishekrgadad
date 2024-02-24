@@ -47,10 +47,11 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/abhishekrgadad/abhishekrgadad/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Abhishekrgadad/Abhishekrgadad/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
+
 
 <hr/>
 
