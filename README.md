@@ -6,6 +6,11 @@
 
 <h3 align="left">A passionate Web developer</h3>
 
+<div style="display: flex; justify-content: center;">
+    <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Your GIF Title">
+</div>
+
+
 
 <div align="left">
  
@@ -52,6 +57,9 @@
     <br/> -->
     <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekrgadad&" alt="abhishekrgadad" /></p> 
 </div>
-
 <br/>
+<hr/>
 
+<h1 align="centre">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You!+👋;" />
+</h1>
