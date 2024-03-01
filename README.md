@@ -14,7 +14,7 @@
 
 <div align="left">
  
- 🔭 I’m currently working on **MY Skills**
+ <!--🔭 I’m currently working on **** -->
  
  🌱 I’m currently learning **Full Stack Web Development**
 
