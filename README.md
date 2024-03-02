@@ -3,8 +3,8 @@
 <h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Folks!+👋;+I'm+Abhishek+R+Gadad!;" />
 </h1>
-
-<h3 align="left">A passionate frontend developer and Website Designer with Fair Backend Database Knowledge.</h3>
+<hr/>
+<h3 align="left">A passionate Programmer and Website Designer with Fair Backend Database Knowledge.</h3>
 
 ###
 
@@ -36,18 +36,19 @@
 
  </div> 
  -->
- <h3 align="left">Connect with me:</h3>
-<div align="left">
-  [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/abhishek-gadad-942716226/)
-[![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:your-email@gmail.com)
-[![Telegram](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg)](https://t.me/your-telegram)
 
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/Abhishek-gadad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
+
+  
+</p>
 
 
  <hr/>
  
-<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="left">⚒️ Languages and Tools ⚒️</h2>
 <br/>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma" />
@@ -67,11 +68,10 @@
 
 <br/>
 <hr/>
-###
 
+<p>Snake Eating my Contributions</p>
 <img src="https://raw.githubusercontent.com/abhishekrgadad/abhishekrgadad/output/snake.svg" alt="Snake animation" />
-
-###
+<hr/>
 
 <h1 align="centre">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You!+💖;" />
