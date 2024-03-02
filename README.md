@@ -38,9 +38,9 @@
  -->
  <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="[https://www.linkedin.com/your-account](https://www.linkedin.com/in/abhishek-gadad-942716226/)"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
-  <a href="abhishekgadad252@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /></a>
-  <a href="https://t.me/starg485"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" /></a>
+  <a href="[https://](https://www.linkedin.com/in/abhishek-gadad-942716226/)" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
+  <a href="abhishekgadad252@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /></a>
+  <a href="https://t.me/starg485" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" /></a>
 </div>
 
 
