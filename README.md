@@ -58,6 +58,11 @@
 
 <br/>
 <hr/>
+###
+
+<img src="https://raw.githubusercontent.com/abhishekrgadad/abhishekrgadad/output/snake.svg" alt="Snake animation" />
+
+###
 
 <h1 align="centre">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You!+💖;" />
