@@ -50,13 +50,12 @@
 
 <h2 align="left">⚡ Stats ⚡</h2>
 
-<div style="display: flex; flex-direction: column;">
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekrgadad&show_icons=true&locale=en&layout=compact" alt="abhishekrgadad" /></p>
-    <br/>
-<!--    <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=abhishekrgadad&show_icons=true&locale=en" alt="abhishekrgadad" /></p>
-    <br/> -->
-    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekrgadad&" alt="abhishekrgadad" /></p> 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekrgadad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekrgadad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekrgadad&radius=16&theme=chartreuse-dark&area=true&order=5&custom_title=Contribution%20Graph%20%20%F0%9F%9A%80" height="300" alt="activity-graph graph"  />
 </div>
+
 <br/>
 <hr/>
 
