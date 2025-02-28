@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">🌱 I’m currently learning Full Stack Web Development<br><br>💬 Ask me about Programming , Learning , Gadgets , Business<br><br>⚡ Fun fact I am Crazy in Learning New Things and Exploring New Works<br><br> 🪄 C | JAVA | JAVSCRIPT | MERN | MEAN | REACTJS| NEXTJS </h4>
+<h4 align="left">🌱 I’m currently learning Full Stack Web Development<br><br>💬 Ask me about Programming , Learning , Gadgets , Business<br><br>⚡ Fun fact I am Crazy in Learning New Things and Exploring New Works<br><br> 🪄 C | Go Lang | JAVA | JAVSCRIPT | MERN | MEAN | REACTJS| NEXTJS </h4>
 
 ###
 
