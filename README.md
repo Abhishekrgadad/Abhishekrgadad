@@ -16,41 +16,18 @@
 
 ###
 
-<!--<h3 align="left">A passionate Web developer</h3>
-
-<div style="display: flex; justify-content: center;">
-    <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Your GIF Title">
-</div>
-
-
-
-<div align="left">
- 
- 🔭 I’m currently working on **** 
- 
- 🌱 I’m currently learning **Full Stack Web Development**
-
-💬 Ask me about **Programming , Learning , Gadgets , Business**
-
-⚡ Fun fact **I am Crazy in Learning New Things and Exploring New Works**
-
- </div> 
- -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/Abhishek-gadad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-<a href="mailto:abhishekrgadad@gmail.com" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" height="30" width="40" />
+
 </a>
-
-
-  
+<a href="mailto:abhishekrgadad@gmail.com" target="_blank">
+  <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" height="30" width="40" />
+</a>
 </p>
 
-
- <hr/>
+<hr/>
  
 <h2 align="left">⚒️ Languages and Tools ⚒️</h2>
 <br/>
