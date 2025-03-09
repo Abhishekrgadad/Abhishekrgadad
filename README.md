@@ -32,7 +32,7 @@
 <h2 align="left">⚒️ Languages and Tools ⚒️</h2>
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma" />
+    <img src="https://skillicons.dev/icons?i=Go,html,css,vscode,github,figma" />
     <img src="https://skillicons.dev/icons?i=javascript,mongodb,c,java,mysql" /><br>
 </div>
 
