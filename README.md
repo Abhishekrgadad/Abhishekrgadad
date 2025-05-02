@@ -50,6 +50,6 @@
 <br/>
 <hr/>
 
-<p>Snake Eating my Contributions</p>
+<p>Contributions</p>
 <img src="https://raw.githubusercontent.com/abhishekrgadad/abhishekrgadad/output/snake.svg" alt="Snake animation" />
 <hr/>
